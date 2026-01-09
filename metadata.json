@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VideoPrompt Pro",
+  "description": "Professional AI-powered workspace to transform video content into high-fidelity generative prompts for Midjourney, Stable Diffusion, and Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
